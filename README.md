@@ -46,7 +46,3 @@ hardware through profiling.
 | [Zone-8](https://github.com/Ahmed-Fahmy55/Zone-8) | Top-down stealth game with detection &amp; patrol AI |
 | [AsteraX](https://github.com/Ahmed-Fahmy55/AsteraX) | Fast-paced 2D space shooter |
 | [KitchenChaos](https://github.com/Ahmed-Fahmy55/KitchenChaos) | Co-op 3D cooking game with networked play |
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Fahmy55&show_icons=true&hide_border=true&hide=stars" alt="GitHub stats" />
-</p>
