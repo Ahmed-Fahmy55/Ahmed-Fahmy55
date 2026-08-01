@@ -9,7 +9,7 @@
 <p align="center">Unity Developer · XR &amp; Game Developer</p>
 
 <p align="center">
-  <a href="https://ahmed-fahmy.netlify.app/](https://ahmed-fahmy55.github.io/">Portfolio</a> ·
+  <a href="https://ahmed-fahmy55.github.io/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/ahmed-fahmy-4101231b4/">LinkedIn</a> ·
   <a href="mailto:ahmedfahmydev55@gmail.com">Email</a>
 </p>
