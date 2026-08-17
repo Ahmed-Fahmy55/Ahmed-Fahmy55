@@ -23,7 +23,7 @@ hardware through profiling.
 
 - 🔭 Currently building a configurable mini-game platform that clients can fully reskin (theme, content, data).
 - 🧩 I care most about clean architecture, reusable systems, and performance.
-- 🎬 Demos of my shipped client work (BLS VR, Physics Lab VR, Golden Chemistry) live on my [portfolio](https://ahmed-fahmy.netlify.app/) — those projects are client-owned and not public here.
+- 🎬 Demos of my shipped client work (BLS VR, Physics Lab VR, Golden Chemistry) live on my [portfolio](https://ahmed-fahmy55.github.io/) — those projects are client-owned and not public here.
 
 ### Tech
 
