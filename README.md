@@ -43,6 +43,3 @@ hardware through profiling.
 | Project | What it is |
 |---|---|
 | [Core-Systems](https://github.com/Ahmed-Fahmy55/Core-Systems) | Reusable core systems I drop into my Unity projects |
-| [Zone-8](https://github.com/Ahmed-Fahmy55/Zone-8) | Top-down stealth game with detection &amp; patrol AI |
-| [AsteraX](https://github.com/Ahmed-Fahmy55/AsteraX) | Fast-paced 2D space shooter |
-| [KitchenChaos](https://github.com/Ahmed-Fahmy55/KitchenChaos) | Co-op 3D cooking game with networked play |
